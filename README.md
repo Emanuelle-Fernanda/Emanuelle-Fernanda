@@ -1,4 +1,4 @@
-## Olá! eu sou Emanuelle
+## Olá! eu sou a Emanuelle
 
 
 <!---
