@@ -1,4 +1,4 @@
-## Olá! eu sou a Emanuelle
+## Emanuelle
 
 
 <div style="display: inline_block"><br>
