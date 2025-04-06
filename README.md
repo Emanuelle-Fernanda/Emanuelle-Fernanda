@@ -1,6 +1,6 @@
-## Emanuelle Fernanda dos Santos
-
-
+# Emanuelle Fernanda dos Santos
+<b>Cursando `Análise Desenvolvimento de Sistemas`</b><br>
+>SPTECH
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
